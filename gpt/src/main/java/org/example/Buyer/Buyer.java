@@ -1,3 +1,4 @@
+package org.example.Buyer;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -97,9 +98,4 @@ public class Buyer {
     }
 
     // Consider overriding equals, hashCode, and toString methods as needed
-}
-
-// Placeholder for PaymentMethod class, assuming it's defined elsewhere
-class PaymentMethod {
-    // Implementation goes here
 }
